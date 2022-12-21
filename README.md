@@ -2,7 +2,7 @@
 
 Antes do jailbreak do Palera1n verifique se no seu "diretório local" do seu linux, aonde fica a pasta do palera1n, se tem uma pasta chamada "usbmuxd2"... Se tiver não faça nada, mas, se não tiver, clona este meu repositório no seu linux, abrindo uma nova janela no terminal xfce e executando o seguinte comando:
 
-'sudo git clone --recursive https://github.com/Italogc/usbmuxd2'
+sudo git clone --recursive https://github.com/Italogc/usbmuxd2
 
 Após o fim do processo verifique se a pasta usbmuxd2 já está presente no seu diretório local, e se positivo, feche o terminal e pode executar o processo do se palera1n quando você quiser numa nova janela de terminal.
 
